@@ -1,66 +1,63 @@
 [
   {
-    "nombre": "EF",
-    "id": "ukjsdf21sdds",
+    "nombre": "Entrenamiento",
+    "id": "ukjsdsdff21sdds",
     "tipo": "Salud",
-    "fechaCreacion": "2024-1-15",
-    "favorito": false,
+    "fechaCreacion": "2024-2-17",
+    "favorito": true,
     "archivado": false,
     "logros": [
       {
-        "idLogro": "ghre",
-        "nombreLogro": "Examen salud",
-        "imgLogo": "star"
+        "idLogro": "dskfs",
+        "nombreLogro": "5K Montevideo corre",
+        "imgLogo": "ray"
+      },
+      {
+        "idLogro": "dskfsdfdss",
+        "nombreLogro": "3 meses crossfit",
+        "imgLogo": "cup"
       }
     ],
     "subcategorias": [
       {
-        "nombreSubcat": "Tesis",
-        "idSubcat": "sdf1sdf2",
+        "nombreSubcat": "Correr",
+        "idSubcat": "sdf1sdvcf2",
         "cerrada": false,
         "diasCheckeados": [
           {
-            "date": "2024-1-15",
+            "date": "2024-2-17",
             "status": 1
           },
           {
-            "date": "2024-1-23",
-            "status": 1
-          },
-          {
-            "date": "2024-2-3",
+            "date": "2024-2-20",
             "status": 0
           },
           {
-            "date": "2024-3-1",
+            "date": "2024-2-21",
             "status": 1
           },
           {
-            "date": "2024-3-2",
-            "satus": 2
+            "date": "2024-3-3",
+            "status": 0
+          },
+          {
+            "date": "2024-3-6",
+            "satus": 3
+          },
+          {
+            "date": "2024-4-25",
+            "status": 1
           }
         ]
       },
       {
-        "nombreSubcat": "Examen Deporte",
-        "idSubcat": "sdf133sdf2",
-        "cerrada": true,
+        "nombreSubcat": "Crossfit",
+        "idSubcat": "26a9c159-7e4e-4861-aca8-04c3a08a5e43",
+        "cerrada": false,
         "diasCheckeados": [
           {
-            "date": "2024-2-7",
+            "date": "2024-4-25",
             "status": 0
-          },
-          {
-            "date": "2024-2-8",
-            "status": 1
-          },
-          {
-            "date": "2024-2-9",
-            "status": 2
-          },
-          {
-            "date": "2024-2-10",
-            "status": 2
           }
         ]
       }
@@ -70,10 +67,26 @@
     "nombre": "Programación",
     "id": "adkj4s5la",
     "tipo": "Crecimiento",
-    "fechaCreacion": "2023-12-16",
+    "fechaCreacion": "2021-12-16",
     "favorito": true,
     "archivado": false,
-    "logros": [],
+    "logros": [
+      {
+        "idLogro": "ed52302b-efac-42c7-9c43-cbd514e23c6e",
+        "nombreLogro": "Meta front-end developer",
+        "imgLogo": "star"
+      },
+      {
+        "idLogro": "93e92f7e-d9fc-406f-83dd-17cd9bf26d40",
+        "nombreLogro": "jóvenes a programar",
+        "imgLogo": "crown"
+      },
+      {
+        "idLogro": "c4ced35f-94b2-41df-b814-ffc8674c0642",
+        "nombreLogro": "certificación Liferay Cloud 2023",
+        "imgLogo": "ray"
+      }
+    ],
     "subcategorias": [
       {
         "nombreSubcat": "React",
@@ -130,57 +143,367 @@
           {
             "date": "2024-3-4",
             "status": 1
+          },
+          {
+            "date": "2024-4-25",
+            "status": 0
+          }
+        ]
+      },
+      {
+        "nombreSubcat": "HTML, Css y JavaScript",
+        "idSubcat": "7677c055-764b-4fc3-bb80-c2fb9af1a2dc",
+        "cerrada": true,
+        "diasCheckeados": [
+          {
+            "date": "2021-12-16",
+            "status": 1
+          },
+          {
+            "date": "2021-12-17",
+            "status": 0
+          },
+          {
+            "date": "2021-12-18",
+            "status": 3
+          },
+          {
+            "date": "2021-12-22",
+            "status": 1
+          },
+          {
+            "date": "2021-12-25",
+            "status": 2
+          },
+          {
+            "date": "2021-12-28",
+            "status": 0
+          },
+          {
+            "date": "2021-12-29",
+            "status": 1
+          },
+          {
+            "date": "2022-1-3",
+            "status": 0
+          },
+          {
+            "date": "2022-1-5",
+            "status": 2
+          },
+          {
+            "date": "2022-1-7",
+            "status": 0
+          },
+          {
+            "date": "2022-1-10",
+            "status": 1
+          },
+          {
+            "date": "2022-1-15",
+            "status": 0
+          }
+        ]
+      },
+      {
+        "nombreSubcat": "Python",
+        "idSubcat": "9bf100e4-ed70-4007-93ef-e3974bff7a4b",
+        "cerrada": true,
+        "diasCheckeados": [
+          {
+            "date": "2021-12-20",
+            "status": 1
+          },
+          {
+            "date": "2021-12-21",
+            "status": 0
+          },
+          {
+            "date": "2022-2-18",
+            "status": 3
+          },
+          {
+            "date": "2022-2-22",
+            "status": 1
+          },
+          {
+            "date": "2022-2-25",
+            "status": 2
+          },
+          {
+            "date": "2022-2-28",
+            "status": 0
+          },
+          {
+            "date": "2022-3-15",
+            "status": 1
+          },
+          {
+            "date": "2022-3-16",
+            "status": 0
+          },
+          {
+            "date": "2022-3-17",
+            "status": 2
+          },
+          {
+            "date": "2022-3-21",
+            "status": 0
+          },
+          {
+            "date": "2022-3-23",
+            "status": 1
+          },
+          {
+            "date": "2022-3-26",
+            "status": 0
+          },
+          {
+            "date": "2022-3-27",
+            "status": 0
+          }
+        ]
+      },
+      {
+        "nombreSubcat": "Accesibilidad",
+        "idSubcat": "7916151a-320e-48c0-a4a5-9775cb253df3",
+        "cerrada": true,
+        "diasCheckeados": [
+          {
+            "date": "2022-4-2",
+            "status": 0
+          },
+          {
+            "date": "2022-4-3",
+            "status": 1
+          },
+          {
+            "date": "2022-4-5",
+            "status": 0
+          },
+          {
+            "date": "2022-4-7",
+            "status": 0
           }
         ]
       }
     ]
   },
   {
-    "nombre": "Entrenamiento",
-    "id": "ukjsdsdff21sdds",
-    "tipo": "Salud",
-    "fechaCreacion": "2024-2-17",
+    "id": "d0f492e5-23b0-4092-a6ae-f9557c958a50",
+    "nombre": "Viajes",
+    "tipo": "Esparcimiento",
+    "fechaCreacion": "2022-10-11",
     "favorito": false,
     "archivado": false,
     "logros": [
       {
-        "idLogro": "dskfs",
-        "nombreLogro": "5K Montevideo corre",
+        "idLogro": "ca641b47-ebdc-4403-aee6-a211f35c7a2b",
+        "nombreLogro": "Argentina",
         "imgLogo": "ray"
       },
       {
-        "idLogro": "dskfsdfdss",
-        "nombreLogro": "3 meses crossfit",
+        "idLogro": "215d93fc-7c97-4b08-8108-59aa6f3f5b42",
+        "nombreLogro": "Brasil",
+        "imgLogo": "cup"
+      },
+      {
+        "idLogro": "a4d732df-8fbb-46b1-855d-a4d6ec55d1e8",
+        "nombreLogro": "Chile",
+        "imgLogo": "star"
+      },
+      {
+        "idLogro": "b11ba33c-8cc0-4c28-8e58-3715e9dab8e6",
+        "nombreLogro": "Sudáfrica",
+        "imgLogo": "rocket"
+      }
+    ],
+    "subcategorias": [
+      {
+        "nombreSubcat": "Rio de Janeiro",
+        "idSubcat": "533495e4-08b1-44c5-bc01-918cf0969d87",
+        "cerrada": true,
+        "diasCheckeados": [
+          {
+          "date": "2022-10-13",
+          "status": 1
+        },
+        {
+          "date": "2022-10-14",
+          "status": 1
+        },
+        {
+          "date": "2022-10-16",
+          "status": 2
+        },
+        {
+          "date": "2022-10-28",
+          "status": 0
+        },
+        {
+          "date": "2022-10-30",
+          "status": 1
+        },
+        {
+          "date": "2022-11-16",
+          "status": 0
+        },
+        {
+          "date": "2022-11-17",
+          "status": 2
+        },
+        {
+          "date": "2022-11-21",
+          "status": 0
+        },
+        {
+          "date": "2022-12-1",
+          "status": 3
+        },
+        {
+          "date": "2022-12-2",
+          "status": 3
+        },
+        {
+          "date": "2022-12-3",
+          "status": 3
+        },
+        {
+          "date": "2022-12-4",
+          "status": 3
+        },
+        {
+          "date": "2022-12-5",
+          "status": 3
+        },
+        {
+          "date": "2022-12-6",
+          "status": 3
+        },
+        {
+          "date": "2022-12-7",
+          "status": 3
+        }
+      ]
+      },
+      {
+        "nombreSubcat": "España",
+        "idSubcat": "e15440e3-2c2e-4cc1-ac06-5dfaa8f1dbbe",
+        "cerrada": false,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Catamarca",
+        "idSubcat": "1af44eb9-a8f5-42bf-b55c-9c871b21ac52",
+        "cerrada": true,
+        "diasCheckeados": []
+      }
+    ]
+  },
+  {
+    "id": "7f4dbf18-71e3-4e55-b7c3-b6a51606ad25",
+    "nombre": "Licenciatura EF",
+    "tipo": "Crecimiento",
+    "fechaCreacion": "2020-2-1",
+    "favorito": false,
+    "archivado": false,
+    "logros": [
+      {
+        "idLogro": "c036fe70-ff14-4f7c-a8fa-bc8d31409703",
+        "nombreLogro": "1er año",
+        "imgLogo": "star"
+      },
+      {
+        "idLogro": "c7674d8f-b830-401c-979b-624e6e54c1c3",
+        "nombreLogro": "2do año",
+        "imgLogo": "rocket"
+      },
+      {
+        "idLogro": "fd5c93f6-4b96-413c-a12a-ef33194205eb",
+        "nombreLogro": "3er año",
+        "imgLogo": "cup"
+      },
+      {
+        "idLogro": "03f2475b-3dc0-4357-882a-f0c1717fc13a",
+        "nombreLogro": "4to año",
+        "imgLogo": "rocket"
+      },
+      {
+        "idLogro": "4388fd54-be1e-4979-8910-c59ed1f0f263",
+        "nombreLogro": "Práctica profesional",
+        "imgLogo": "star"
+      },
+      {
+        "idLogro": "db5b3a50-f094-4f93-9a90-674cb2195fd4",
+        "nombreLogro": "práctica profesional II",
+        "imgLogo": "ray"
+      },
+      {
+        "idLogro": "4cc5d8c5-7ab9-45ea-8eb9-605e864da8b7",
+        "nombreLogro": "Tesis final",
         "imgLogo": "cup"
       }
     ],
     "subcategorias": [
       {
-        "nombreSubcat": "Correr",
-        "idSubcat": "sdf1sdvcf2",
-        "cerrada": false,
-        "diasCheckeados": [
-          {
-            "date": "2024-2-17",
-            "status": 1
-          },
-          {
-            "date": "2024-2-20",
-            "status": 0
-          },
-          {
-            "date": "2024-2-21",
-            "status": 1
-          },
-          {
-            "date": "2024-3-3",
-            "status": 0
-          },
-          {
-            "date": "2024-3-6",
-            "satus": 3
-          }
-        ]
+        "nombreSubcat": "Ed Física Pob. Esp. I",
+        "idSubcat": "9bc9b8cb-1f13-4aa6-99b0-0246e722b55d",
+        "cerrada": true,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Anatomía",
+        "idSubcat": "db74c664-d78a-4439-a6ba-37b6b9bf7d0e",
+        "cerrada": true,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Fisiología",
+        "idSubcat": "c36421b3-d891-40ee-9784-a29631f5c812",
+        "cerrada": true,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Entrenamiento I",
+        "idSubcat": "45785c9b-1dd1-41f2-abb6-5db803a8d2f7",
+        "cerrada": true,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Entrenamiento II",
+        "idSubcat": "e686e1d7-4b0a-4ea9-87dc-1bfc91f29931",
+        "cerrada": true,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Deportes colectivos",
+        "idSubcat": "eaf325f3-a531-4a50-a436-b2f19d15b101",
+        "cerrada": true,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Deportes individuales",
+        "idSubcat": "9ee33c83-3f2b-42e2-b390-82534fb5f443",
+        "cerrada": true,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Práct. Prof. I",
+        "idSubcat": "486f81bd-4518-4244-80a0-2a85a57d6b3b",
+        "cerrada": true,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Práct. Prof. II",
+        "idSubcat": "5bbf66e5-f7bb-4a32-bd97-f68f0ae5ecdf",
+        "cerrada": true,
+        "diasCheckeados": []
+      },
+      {
+        "nombreSubcat": "Tesis final",
+        "idSubcat": "c36d7456-3d3b-4924-95b4-ab9af371ab22",
+        "cerrada": true,
+        "diasCheckeados": []
       }
     ]
   }
