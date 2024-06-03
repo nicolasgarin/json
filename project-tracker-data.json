@@ -10,12 +10,12 @@
             {
                 "idLogro": "dskfs",
                 "nombreLogro": "5K Montevideo corre",
-                "imgLogo": "ray"
+                "imgLogro": "ray"
             },
             {
                 "idLogro": "dskfsdfdss",
                 "nombreLogro": "3 meses crossfit",
-                "imgLogo": "cup"
+                "imgLogro": "cup"
             }
         ],
         "subproyectos": [
@@ -306,17 +306,17 @@
             {
                 "idLogro": "ed52302b-efac-42c7-9c43-cbd514e23c6e",
                 "nombreLogro": "Meta front-end developer",
-                "imgLogo": "star"
+                "imgLogro": "star"
             },
             {
                 "idLogro": "93e92f7e-d9fc-406f-83dd-17cd9bf26d40",
                 "nombreLogro": "jóvenes a programar",
-                "imgLogo": "crown"
+                "imgLogro": "crown"
             },
             {
                 "idLogro": "c4ced35f-94b2-41df-b814-ffc8674c0642",
                 "nombreLogro": "certificación Liferay Cloud 2023",
-                "imgLogo": "ray"
+                "imgLogro": "ray"
             }
         ],
         "subproyectos": [
@@ -724,22 +724,22 @@
             {
                 "idLogro": "ca641b47-ebdc-4403-aee6-a211f35c7a2b",
                 "nombreLogro": "Argentina",
-                "imgLogo": "ray"
+                "imgLogro": "ray"
             },
             {
                 "idLogro": "215d93fc-7c97-4b08-8108-59aa6f3f5b42",
                 "nombreLogro": "Brasil",
-                "imgLogo": "cup"
+                "imgLogro": "cup"
             },
             {
                 "idLogro": "a4d732df-8fbb-46b1-855d-a4d6ec55d1e8",
                 "nombreLogro": "Chile",
-                "imgLogo": "star"
+                "imgLogro": "star"
             },
             {
                 "idLogro": "b11ba33c-8cc0-4c28-8e58-3715e9dab8e6",
                 "nombreLogro": "Sudáfrica",
-                "imgLogo": "rocket"
+                "imgLogro": "rocket"
             }
         ],
         "subproyectos": [
@@ -1008,37 +1008,37 @@
             {
                 "idLogro": "c036fe70-ff14-4f7c-a8fa-bc8d31409703",
                 "nombreLogro": "1er año",
-                "imgLogo": "star"
+                "imgLogro": "star"
             },
             {
                 "idLogro": "c7674d8f-b830-401c-979b-624e6e54c1c3",
                 "nombreLogro": "2do año",
-                "imgLogo": "rocket"
+                "imgLogro": "rocket"
             },
             {
                 "idLogro": "fd5c93f6-4b96-413c-a12a-ef33194205eb",
                 "nombreLogro": "3er año",
-                "imgLogo": "cup"
+                "imgLogro": "cup"
             },
             {
                 "idLogro": "03f2475b-3dc0-4357-882a-f0c1717fc13a",
                 "nombreLogro": "4to año",
-                "imgLogo": "rocket"
+                "imgLogro": "rocket"
             },
             {
                 "idLogro": "4388fd54-be1e-4979-8910-c59ed1f0f263",
                 "nombreLogro": "Práctica profesional",
-                "imgLogo": "star"
+                "imgLogro": "star"
             },
             {
                 "idLogro": "db5b3a50-f094-4f93-9a90-674cb2195fd4",
                 "nombreLogro": "práctica profesional II",
-                "imgLogo": "ray"
+                "imgLogro": "ray"
             },
             {
                 "idLogro": "4cc5d8c5-7ab9-45ea-8eb9-605e864da8b7",
                 "nombreLogro": "Tesis final",
-                "imgLogo": "cup"
+                "imgLogro": "cup"
             }
         ],
         "subproyectos": [
