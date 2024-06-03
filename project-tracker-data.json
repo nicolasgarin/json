@@ -18,12 +18,12 @@
         "imgLogo": "cup"
       }
     ],
-    "subcategorias": [
+    "subproyectos": [
       {
-        "nombreSubcat": "Correr",
-        "idSubcat": "sdf1sdvcf2",
+        "nombreSubp": "Correr",
+        "idSubp": "sdf1sdvcf2",
         "cerrada": false,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2024-2-17",
             "status": 1
@@ -107,10 +107,10 @@
         ]
       },
       {
-        "nombreSubcat": "Crossfit",
-        "idSubcat": "26a9c159-7e4e-4861-aca8-04c3a08a5e43",
+        "nombreSubp": "Crossfit",
+        "idSubp": "26a9c159-7e4e-4861-aca8-04c3a08a5e43",
         "cerrada": false,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2024-3-5",
             "status": 2
@@ -191,12 +191,12 @@
         "imgLogo": "ray"
       }
     ],
-    "subcategorias": [
+    "subproyectos": [
       {
-        "nombreSubcat": "React",
-        "idSubcat": "dsfdfs1ew",
+        "nombreSubp": "React",
+        "idSubp": "dsfdfs1ew",
         "cerrada": false,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2023-12-16",
             "status": 0
@@ -260,10 +260,10 @@
         ]
       },
       {
-        "nombreSubcat": "Liferay",
-        "idSubcat": "wew2sd",
+        "nombreSubp": "Liferay",
+        "idSubp": "wew2sd",
         "cerrada": false,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2024-1-6",
             "status": 1
@@ -299,10 +299,10 @@
         ]
       },
       {
-        "nombreSubcat": "HTML, Css y JavaScript",
-        "idSubcat": "7677c055-764b-4fc3-bb80-c2fb9af1a2dc",
+        "nombreSubp": "HTML, Css y JavaScript",
+        "idSubp": "7677c055-764b-4fc3-bb80-c2fb9af1a2dc",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2021-12-16",
             "status": 1
@@ -354,10 +354,10 @@
         ]
       },
       {
-        "nombreSubcat": "Python",
-        "idSubcat": "9bf100e4-ed70-4007-93ef-e3974bff7a4b",
+        "nombreSubp": "Python",
+        "idSubp": "9bf100e4-ed70-4007-93ef-e3974bff7a4b",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2021-12-20",
             "status": 1
@@ -413,10 +413,10 @@
         ]
       },
       {
-        "nombreSubcat": "Accesibilidad",
-        "idSubcat": "7916151a-320e-48c0-a4a5-9775cb253df3",
+        "nombreSubp": "Accesibilidad",
+        "idSubp": "7916151a-320e-48c0-a4a5-9775cb253df3",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2022-4-2",
             "status": 0
@@ -466,12 +466,12 @@
         "imgLogo": "rocket"
       }
     ],
-    "subcategorias": [
+    "subproyectos": [
       {
-        "nombreSubcat": "Rio de Janeiro",
-        "idSubcat": "533495e4-08b1-44c5-bc01-918cf0969d87",
+        "nombreSubp": "Rio de Janeiro",
+        "idSubp": "533495e4-08b1-44c5-bc01-918cf0969d87",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2022-10-13",
             "status": 1
@@ -535,10 +535,10 @@
         ]
       },
       {
-        "nombreSubcat": "España",
-        "idSubcat": "e15440e3-2c2e-4cc1-ac06-5dfaa8f1dbbe",
+        "nombreSubp": "España",
+        "idSubp": "e15440e3-2c2e-4cc1-ac06-5dfaa8f1dbbe",
         "cerrada": false,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2024-4-2",
             "status": 1
@@ -574,10 +574,10 @@
         ]
       },
       {
-        "nombreSubcat": "Catamarca",
-        "idSubcat": "1af44eb9-a8f5-42bf-b55c-9c871b21ac52",
+        "nombreSubp": "Catamarca",
+        "idSubp": "1af44eb9-a8f5-42bf-b55c-9c871b21ac52",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2023-2-13",
             "status": 1
@@ -686,12 +686,12 @@
         "imgLogo": "cup"
       }
     ],
-    "subcategorias": [
+    "subproyectos": [
       {
-        "nombreSubcat": "Ed Física Pob. Esp. I",
-        "idSubcat": "9bc9b8cb-1f13-4aa6-99b0-0246e722b55d",
+        "nombreSubp": "Ed Física Pob. Esp. I",
+        "idSubp": "9bc9b8cb-1f13-4aa6-99b0-0246e722b55d",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2020-4-13",
             "status": 1
@@ -755,10 +755,10 @@
         ]
       },
       {
-        "nombreSubcat": "Anatomía",
-        "idSubcat": "db74c664-d78a-4439-a6ba-37b6b9bf7d0e",
+        "nombreSubp": "Anatomía",
+        "idSubp": "db74c664-d78a-4439-a6ba-37b6b9bf7d0e",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2020-4-8",
             "status": 1
@@ -838,10 +838,10 @@
         ]
       },
       {
-        "nombreSubcat": "Fisiología",
-        "idSubcat": "c36421b3-d891-40ee-9784-a29631f5c812",
+        "nombreSubp": "Fisiología",
+        "idSubp": "c36421b3-d891-40ee-9784-a29631f5c812",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2020-3-31",
             "status": 1
@@ -929,10 +929,10 @@
         ]
       },
       {
-        "nombreSubcat": "Entrenamiento I",
-        "idSubcat": "45785c9b-1dd1-41f2-abb6-5db803a8d2f7",
+        "nombreSubp": "Entrenamiento I",
+        "idSubp": "45785c9b-1dd1-41f2-abb6-5db803a8d2f7",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2020-8-10",
             "status": 1
@@ -996,10 +996,10 @@
         ]
       },
       {
-        "nombreSubcat": "Entrenamiento II",
-        "idSubcat": "e686e1d7-4b0a-4ea9-87dc-1bfc91f29931",
+        "nombreSubp": "Entrenamiento II",
+        "idSubp": "e686e1d7-4b0a-4ea9-87dc-1bfc91f29931",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2020-8-12",
             "status": 1
@@ -1079,10 +1079,10 @@
         ]
       },
       {
-        "nombreSubcat": "Deportes colectivos",
-        "idSubcat": "eaf325f3-a531-4a50-a436-b2f19d15b101",
+        "nombreSubp": "Deportes colectivos",
+        "idSubp": "eaf325f3-a531-4a50-a436-b2f19d15b101",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2021-4-13",
             "status": 1
@@ -1146,10 +1146,10 @@
         ]
       },
       {
-        "nombreSubcat": "Deportes individuales",
-        "idSubcat": "9ee33c83-3f2b-42e2-b390-82534fb5f443",
+        "nombreSubp": "Deportes individuales",
+        "idSubp": "9ee33c83-3f2b-42e2-b390-82534fb5f443",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2021-4-10",
             "status": 1
@@ -1221,10 +1221,10 @@
         ]
       },
       {
-        "nombreSubcat": "Práct. Prof. I",
-        "idSubcat": "486f81bd-4518-4244-80a0-2a85a57d6b3b",
+        "nombreSubp": "Práct. Prof. I",
+        "idSubp": "486f81bd-4518-4244-80a0-2a85a57d6b3b",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2022-4-15",
             "status": 1
@@ -1284,10 +1284,10 @@
         ]
       },
       {
-        "nombreSubcat": "Práct. Prof. II",
-        "idSubcat": "5bbf66e5-f7bb-4a32-bd97-f68f0ae5ecdf",
+        "nombreSubp": "Práct. Prof. II",
+        "idSubp": "5bbf66e5-f7bb-4a32-bd97-f68f0ae5ecdf",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2022-8-6",
             "status": 1
@@ -1363,10 +1363,10 @@
         ]
       },
       {
-        "nombreSubcat": "Tesis final",
-        "idSubcat": "c36d7456-3d3b-4924-95b4-ab9af371ab22",
+        "nombreSubp": "Tesis final",
+        "idSubp": "c36d7456-3d3b-4924-95b4-ab9af371ab22",
         "cerrada": true,
-        "diasCheckeados": [
+        "diasChecklist": [
           {
             "date": "2023-4-15",
             "status": 1
